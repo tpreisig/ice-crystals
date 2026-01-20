@@ -4,6 +4,9 @@
 
 This is a Pygame-based application that creates an interactive animation of ice crystal-like structures. When the user clicks the mouse on the predefined screen, a branching crystal pattern is generated from a fixed starting point to the mouse position. The crystals have a fading effect with flickering brightness and play a feedback sound ( ➡️ beautiful and crystal clear piano arpeggios).
 
+![Screenshot](/assets/cursor.png)
+
+
 ## Features
 
 - **Interactive Crystal Generation**: Click anywhere on the screen to generate a new crystal pattern.
